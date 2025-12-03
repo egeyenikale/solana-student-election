@@ -1,0 +1,151 @@
+{
+  "slug": "solana-student-election",
+  "title": "Solana Student Election",
+  "category": "blockchain",
+  "difficulty": "large",
+  "period": "2026-Q1",
+  "estimatedCommits": 22,
+  "description": "NFT-verified student election system on Solana.",
+  "features": [
+    "Election program",
+    "NFT eligibility check",
+    "Candidate management",
+    "Vote casting",
+    "Result calculation",
+    "Frontend integration"
+  ],
+  "commits": [
+    {
+      "number": 1,
+      "type": "chore",
+      "title": "initialize project structure",
+      "commitMessage": "chore: initialize project structure"
+    },
+    {
+      "number": 2,
+      "type": "feat",
+      "title": "add core domain model",
+      "commitMessage": "feat: add core domain model"
+    },
+    {
+      "number": 3,
+      "type": "feat",
+      "title": "configure persistence or state layer",
+      "commitMessage": "feat: configure persistence or state layer"
+    },
+    {
+      "number": 4,
+      "type": "feat",
+      "title": "implement main workflow",
+      "commitMessage": "feat: implement main workflow"
+    },
+    {
+      "number": 5,
+      "type": "feat",
+      "title": "add public interface",
+      "commitMessage": "feat: add public interface"
+    },
+    {
+      "number": 6,
+      "type": "test",
+      "title": "add automated coverage",
+      "commitMessage": "test: add automated coverage"
+    },
+    {
+      "number": 7,
+      "type": "docs",
+      "title": "add installation and usage documentation",
+      "commitMessage": "docs: add installation and usage documentation"
+    },
+    {
+      "number": 8,
+      "type": "ci",
+      "title": "add build and test workflow",
+      "commitMessage": "ci: add build and test workflow"
+    },
+    {
+      "number": 9,
+      "type": "feat",
+      "title": "add validation rules for candidate management",
+      "commitMessage": "feat: add validation rules for candidate management"
+    },
+    {
+      "number": 10,
+      "type": "feat",
+      "title": "add reporting view for vote casting",
+      "commitMessage": "feat: add reporting view for vote casting"
+    },
+    {
+      "number": 11,
+      "type": "feat",
+      "title": "add export or integration support for result calculation",
+      "commitMessage": "feat: add export or integration support for result calculation"
+    },
+    {
+      "number": 12,
+      "type": "refactor",
+      "title": "improve service boundaries for frontend integration",
+      "commitMessage": "refactor: improve service boundaries for frontend integration"
+    },
+    {
+      "number": 13,
+      "type": "fix",
+      "title": "handle edge cases for election program",
+      "commitMessage": "fix: handle edge cases for election program"
+    },
+    {
+      "number": 14,
+      "type": "perf",
+      "title": "improve query or request performance for nft eligibility check",
+      "commitMessage": "perf: improve query or request performance for nft eligibility check"
+    },
+    {
+      "number": 15,
+      "type": "test",
+      "title": "add integration tests for candidate management",
+      "commitMessage": "test: add integration tests for candidate management"
+    },
+    {
+      "number": 16,
+      "type": "docs",
+      "title": "document architecture decisions for vote casting",
+      "commitMessage": "docs: document architecture decisions for vote casting"
+    },
+    {
+      "number": 17,
+      "type": "chore",
+      "title": "add sample data for result calculation",
+      "commitMessage": "chore: add sample data for result calculation"
+    },
+    {
+      "number": 18,
+      "type": "feat",
+      "title": "add audit logging for frontend integration",
+      "commitMessage": "feat: add audit logging for frontend integration"
+    },
+    {
+      "number": 19,
+      "type": "feat",
+      "title": "add notification flow for election program",
+      "commitMessage": "feat: add notification flow for election program"
+    },
+    {
+      "number": 20,
+      "type": "test",
+      "title": "add regression coverage for nft eligibility check",
+      "commitMessage": "test: add regression coverage for nft eligibility check"
+    },
+    {
+      "number": 21,
+      "type": "ci",
+      "title": "publish quality report for candidate management",
+      "commitMessage": "ci: publish quality report for candidate management"
+    },
+    {
+      "number": 22,
+      "type": "docs",
+      "title": "add screenshots and roadmap for vote casting",
+      "commitMessage": "docs: add screenshots and roadmap for vote casting"
+    }
+  ]
+}
