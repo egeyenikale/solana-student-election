@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for candidate management
 
+## 2026-02-23 - Stage 10
+
+feat: add reporting view for vote casting
+
