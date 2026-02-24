@@ -48,3 +48,8 @@ export const stage10 = {
   "date": "2026-02-23",
   "message": "feat: add reporting view for vote casting"
 };
+
+export const stage11 = {
+  "date": "2026-02-24",
+  "message": "feat: add export or integration support for result calculation"
+};

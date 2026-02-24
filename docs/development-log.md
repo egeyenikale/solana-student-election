@@ -40,3 +40,7 @@ feat: add validation rules for candidate management
 
 feat: add reporting view for vote casting
 
+## 2026-02-24 - Stage 11
+
+feat: add export or integration support for result calculation
+
