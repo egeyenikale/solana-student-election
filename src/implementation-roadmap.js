@@ -63,3 +63,8 @@ export const stage13 = {
   "date": "2026-03-09",
   "message": "fix: handle edge cases for election program"
 };
+
+export const stage14 = {
+  "date": "2026-03-09",
+  "message": "perf: improve query or request performance for nft eligibility check"
+};

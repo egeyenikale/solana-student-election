@@ -52,3 +52,7 @@ refactor: improve service boundaries for frontend integration
 
 fix: handle edge cases for election program
 
+## 2026-03-09 - Stage 14
+
+perf: improve query or request performance for nft eligibility check
+
