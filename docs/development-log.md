@@ -44,3 +44,7 @@ feat: add reporting view for vote casting
 
 feat: add export or integration support for result calculation
 
+## 2026-03-09 - Stage 12
+
+refactor: improve service boundaries for frontend integration
+
