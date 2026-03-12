@@ -56,3 +56,7 @@ fix: handle edge cases for election program
 
 perf: improve query or request performance for nft eligibility check
 
+## 2026-03-12 - Stage 15
+
+test: add integration tests for candidate management
+

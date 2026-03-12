@@ -68,3 +68,8 @@ export const stage14 = {
   "date": "2026-03-09",
   "message": "perf: improve query or request performance for nft eligibility check"
 };
+
+export const stage15 = {
+  "date": "2026-03-12",
+  "message": "test: add integration tests for candidate management"
+};
