@@ -68,3 +68,7 @@ docs: document architecture decisions for vote casting
 
 chore: add sample data for result calculation
 
+## 2026-03-16 - Stage 18
+
+feat: add audit logging for frontend integration
+
