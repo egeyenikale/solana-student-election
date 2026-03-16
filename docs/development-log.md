@@ -60,3 +60,7 @@ perf: improve query or request performance for nft eligibility check
 
 test: add integration tests for candidate management
 
+## 2026-03-16 - Stage 16
+
+docs: document architecture decisions for vote casting
+
