@@ -64,3 +64,7 @@ test: add integration tests for candidate management
 
 docs: document architecture decisions for vote casting
 
+## 2026-03-16 - Stage 17
+
+chore: add sample data for result calculation
+

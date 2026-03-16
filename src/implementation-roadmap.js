@@ -78,3 +78,8 @@ export const stage16 = {
   "date": "2026-03-16",
   "message": "docs: document architecture decisions for vote casting"
 };
+
+export const stage17 = {
+  "date": "2026-03-16",
+  "message": "chore: add sample data for result calculation"
+};
