@@ -72,3 +72,7 @@ chore: add sample data for result calculation
 
 feat: add audit logging for frontend integration
 
+## 2026-03-17 - Stage 19
+
+feat: add notification flow for election program
+
