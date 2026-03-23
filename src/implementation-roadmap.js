@@ -98,3 +98,8 @@ export const stage20 = {
   "date": "2026-03-23",
   "message": "test: add regression coverage for nft eligibility check"
 };
+
+export const stage21 = {
+  "date": "2026-03-23",
+  "message": "ci: publish quality report for candidate management"
+};

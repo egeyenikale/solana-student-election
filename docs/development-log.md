@@ -80,3 +80,7 @@ feat: add notification flow for election program
 
 test: add regression coverage for nft eligibility check
 
+## 2026-03-23 - Stage 21
+
+ci: publish quality report for candidate management
+
