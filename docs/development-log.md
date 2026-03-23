@@ -76,3 +76,7 @@ feat: add audit logging for frontend integration
 
 feat: add notification flow for election program
 
+## 2026-03-23 - Stage 20
+
+test: add regression coverage for nft eligibility check
+
