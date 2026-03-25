@@ -84,3 +84,7 @@ test: add regression coverage for nft eligibility check
 
 ci: publish quality report for candidate management
 
+## 2026-03-25 - Stage 22
+
+docs: add screenshots and roadmap for vote casting
+
